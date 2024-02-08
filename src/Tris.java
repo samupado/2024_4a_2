@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 /*
- * versione 2 
+ * versione 3
  */
 
 public class Tris extends JFrame{
