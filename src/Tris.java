@@ -10,6 +10,10 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+/*
+ * versione 2 
+ */
+
 public class Tris extends JFrame{
 
 		public Tris() {
